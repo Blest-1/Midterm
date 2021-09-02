@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidtermStopWatch", "MidtermStopWatch\MidtermStopWatch.csproj", "{91C29EB3-B149-434A-B918-C64492041C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C29EB3-B149-434A-B918-C64492041C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C29EB3-B149-434A-B918-C64492041C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C29EB3-B149-434A-B918-C64492041C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C29EB3-B149-434A-B918-C64492041C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86CE8AFD-EEB5-4AC2-944E-1C6197BB415E}
+	EndGlobalSection
+EndGlobal
